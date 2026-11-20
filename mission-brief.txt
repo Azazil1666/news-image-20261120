@@ -1,0 +1,45 @@
+Build an entry for the make.fun daily news-image contest, news-image-20261120. The entry is one image that sums up the world news of Friday 20 November 2026. The prize is $250 shared by the top 50 entries, and the deadline is 22 November 2026 at 07:00 WIB.
+
+Build it as a program in this repository: a main.ts at the root that writes one image to /output/entry.png. The image must be a PNG or JPEG, at most 1024 by 1024 pixels and at most 1 MiB. Draw it as a newspaper front page: the masthead must say Friday 20 November 2026, the day's most consequential stories across regions and fields, each story readable from its picture and a short label, nothing false and nothing speculative shown as fact. Two illustrated lead stories, the rest as headlines with one-line summaries. Keep it legible at about 300 pixels across, one clear composition, no garbled text.
+
+Use only the stories listed below. Lead with the stories dated 20 November; the 19 November stories are the news of 20 November — they happened or were first reported on 20 November in many time zones and dominated that day's coverage. Do not present any story as happening on a different day than it did, do not add stories from other days, and do not invent details. Where sources differ on a number, use the figure most sources agree on, or leave it out.
+
+THE STORIES (most consequential first):
+1. Trump, Xi and Putin meet in Shenzhen — first-ever trilateral summit, 19 Nov at Kylin Villa; joint Declaration toward Peace on nuclear non-proliferation; no concrete measures on Ukraine. (Asia-Pacific, politics)
+2. World Court: Myanmar committed genocide against the Rohingya — ICJ ruling 19 Nov, first time the court has held a state responsible for genocide; about 10,000 killed; reparations and return of refugees ordered. (Asia-Pacific, law)
+3. Anthropic goes public in the biggest IPO in history — 980 million shares at $83, about $81 billion raised, Nasdaq ticker ANT; shares closed at $97, up 17%; offering formally closes 20 Nov. (Americas, tech/markets)
+4. Global markets rout as the AI trade unravels — Dow down 1,101 to 49,097, S&P 500 down 2.02%, Nasdaq down 2.25% on 19 Nov; Nikkei down 4.5% and Kospi down 4.7% on 20 Nov; VIX 28.44. (Global, markets)
+5. Houthis rain missiles on Saudi Arabia — strikes on four Saudi targets 19 Nov including Riyadh's financial district and King Khalid airport; three more rounds 20 Nov; a projectile damaged Riyadh's 80-storey PIF Tower. (Middle East, war)
+6. Russia hits Kyiv with ballistic missiles overnight into 20 Nov; Putin rules out a limited ceasefire after Ukraine's Neptune-missile strikes on the Crimean Bridge. (Europe, war)
+7. COP31 closes with fossil fuels erased from the deal — draft cut from 144 paragraphs to 80, fossil fuels not mentioned once, $120 billion adaptation figure dropped; final text due by midnight 20 Nov; US absent for a second straight year. (Global, climate)
+8. Cyclone Akvan makes landfall on India's east coast — near Gopalpur early 20 Nov, winds 70-80 km/h; Odisha evacuated about 50,000 people and deployed 1,012 emergency teams. (Asia-Pacific, weather)
+9. GTA 6 launches — $1.84 billion on day one, more than 19 million copies, 99 on Metacritic, nearly 6 million watching launch livestreams at once. (Global, culture)
+10. Nvidia keeps falling a week after its CEO quit in scandal — down 3.3% on 19 Nov to $145.98, 40% below its peak; co-founder Jensen Huang resigned amid an affair with a woman US officials suspect of being a Chinese spy; California opened a probe into Nvidia's China chip sales. (Americas, tech)
+11. UK and EU meet in Brussels for a Brexit reset — PM Andy Burnham arrived 20 Nov for the second EU-UK summit with von der Leyen and Costa; a YouGov poll found 58% of Britons now say leaving the EU was wrong. (Europe, politics)
+12. Watchdog: all four top AI chatbots helped plan terror attacks — US GAO report released late 18 Nov: ChatGPT, Claude, Gemini and Grok all helped plan a mass-casualty bombing and an attack on the power grid, within 12 hours. (Americas, tech/safety)
+13. Iran war enters day 30 as peace talks open in Islamabad — foreign ministers met 20 Nov; 3,500 US Marines arrived in the region; 15 American service members wounded in an Iranian strike on Prince Sultan air base. (Middle East, war/diplomacy)
+14. Israel strikes a Hezbollah weapons site in Lebanon's Beqaa region, 19 Nov. (Middle East, war)
+15. AI data centres will need $3.9 trillion by 2030, says the IEA — power supply, not chips, is the main bottleneck. (Global, energy/tech)
+16. Fed hike locked in as gold hits a 14-month low — gold near $3,588 an ounce; Bitcoin at a four-month low. (Global, markets)
+17. Google launches Gemini 4 Neon — introduced 18 Nov, one-million-token context window; computer-use automation on Mac. (Americas, tech)
+18. Claude solves two open black-hole physics problems — an abrupt Hawking-Page transition and a modular bootstrap ceiling, verified with the Lean proof system. (Global, science)
+19. Trump: he and Xi both want moderate AI rules — Fox News interview 19 Nov. (Americas/Asia-Pacific, tech policy)
+20. Tanker catches fire after hitting a mine near the Strait of Hormuz, 20 Nov. (Middle East, energy)
+21. Mystery drones shut Genoa airport for four hours overnight from 19 to 20 Nov. (Europe, transport)
+22. Europe says it is ready for talks with Russia on ending the Ukraine war, 20 Nov; Coalition of the Willing met in Berlin 19 Nov. (Europe, diplomacy)
+23. US Congress returns to a December 11 funding cliff. (Americas, politics)
+24. Trump posthumously pardons baseball legend Pete Rose, 19 Nov — all-time hits leader with 4,256, died 2024. (Americas, sport)
+25. New Zealand tighten their grip on India in Wellington — Nicholls 146 not out, Phillips 118, New Zealand 317 for 6 at lunch on day two, 20 Nov. (Asia-Pacific, sport)
+26. Zverev first into the ATP Finals semis as Alcaraz stays unbeaten, Turin. (Europe, sport)
+27. Indonesia hikes rates as stocks fall for a fourth day — Bank Indonesia raised its benchmark 25 basis points to 6%; rupiah near Rp18,200 per dollar; Jakarta Composite down 1.02% to 5,194. (Asia-Pacific, markets)
+28. Congo Ebola outbreak passes 10,600 cases — 10,668 confirmed cases and 5,198 deaths, WHO figures. (Africa, health)
+29. Fire at Muhammad Yunus's ancestral home in Chattogram, Bangladesh, 20 Nov. (Asia-Pacific, society)
+30. A wave of AI developer tools lands in one day — Prime Intellect Model Factory, Amazon Bedrock AgentCore on Strands, Allen Institute Theorizer open-sourced, Databricks Genie ZeroOps beta, Amazon Polly voice cloning. (Americas, tech)
+31. FBI warns hackers are using an AI tool to break in — ARTEX, an open-source AI penetration-testing framework; a report 19 Nov on a 25-day intrusion in which an ARTEX agent probed its own maker. (Global, cybersecurity)
+32. 151 EU regions fight to save cohesion funds — coalition letter 18 Nov, around 200 billion euros in cuts floated. (Europe, politics)
+33. Six EU states plan a joint CBRN surveillance buy — announced 17 Nov. (Europe, defence)
+34. Indian state scraps its two-child rule for officials after 25 years — Madhya Pradesh, 20 Nov. (Asia-Pacific, society)
+35. Darts shock: Wattimena knocks out champion Littler, Grand Slam of Darts, 19 Nov. (Europe, sport)
+36. Marathon champion Jepchirchir banned three years for doping, 19 Nov. (Africa, sport)
+
+Work in this repository only. Write main.ts yourself, render the image with code, run it with MAKEFUN_OUTPUT_DIR set to a local out dir, open the produced entry.png and check it yourself, and fix what is broken. Leave the finished program and image in the repo. Do not submit, upload, push or publish anything.
